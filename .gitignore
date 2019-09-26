@@ -1,2 +1,6 @@
 *.html
+*.ncd
 *.xreport
+*.debug
+*.projectmgr
+*.tcl
