@@ -1,0 +1,16 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "A" LOC = U9;
+NET "B" LOC = U8;
+NET "C" LOC = R7;
+NET "D" LOC = R6;
+NET "Z" LOC = T8;
+
+# PlanAhead Generated IO constraints 
+
+NET "A" IOSTANDARD = LVCMOS18;
+NET "B" IOSTANDARD = LVCMOS18;
+NET "C" IOSTANDARD = LVCMOS18;
+NET "D" IOSTANDARD = LVCMOS18;
+NET "Z" IOSTANDARD = LVCMOS18;
