@@ -4,3 +4,6 @@
 *.debug
 *.projectmgr
 *.tcl
+*.cmd
+*.xmsgs
+*.prj
