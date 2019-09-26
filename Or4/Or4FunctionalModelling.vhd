@@ -23,7 +23,7 @@ ARCHITECTURE behavior OF Or4FunctionalModelling IS
    signal C : std_logic := '0';
    signal D : std_logic := '0';
 
- 	--Outputs
+   --Outputs
    signal Z : std_logic;
  
    constant clock_period : time := 10 ns;
@@ -34,7 +34,7 @@ ARCHITECTURE behavior OF Or4FunctionalModelling IS
  
 BEGIN
  
-	-- Instantiate the Unit Under Test (UUT)
+   -- Instantiate the Unit Under Test (UUT)
    uut: Or4 PORT MAP (
           A => A,
           B => B,
